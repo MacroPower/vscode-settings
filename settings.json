@@ -54,12 +54,33 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cSpell.userWords": [
+    "Colvin",
+    "Databricks",
+    "Grafana",
+    "Grafana's",
+    "Grafanacon",
+    "Grafonnet",
+    "Hepito",
     "Jsonnet",
-    "omnisharp",
-    "monospace",
-    "usings",
+    "Kubernetes",
+    "Reformatter",
+    "SLOs",
+    "Thanos",
+    "bitnami",
+    "blackbox",
+    "ksonnet",
+    "kube",
     "libsonnet",
+    "mixins",
+    "mixtool",
+    "monospace",
+    "omnisharp",
+    "promtail",
+    "promtool",
+    "reimplementation",
     "sonarqube",
-    "sonarsource"
+    "sonarsource",
+    "templating",
+    "usings"
   ]
 }
