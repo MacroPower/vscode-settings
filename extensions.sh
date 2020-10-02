@@ -3,6 +3,7 @@ code --install-extension adpyke.codesnap
 code --install-extension akamud.vscode-theme-onedark
 code --install-extension alexcvzz.vscode-sqlite
 code --install-extension Artymaury.template-finder
+code --install-extension bierner.markdown-emoji
 code --install-extension codezombiech.gitignore
 code --install-extension DavidAnson.vscode-markdownlint
 code --install-extension dbaeumer.vscode-eslint
