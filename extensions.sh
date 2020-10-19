@@ -26,6 +26,7 @@ code --install-extension lextudio.restructuredtext
 code --install-extension magicstack.MagicPython
 code --install-extension MariusAlchimavicius.json-to-ts
 code --install-extension mikeburgh.xml-format
+code --install-extension mikestead.dotenv
 code --install-extension mindginative.terraform-snippets
 code --install-extension ms-azuretools.vscode-azureterraform
 code --install-extension ms-azuretools.vscode-docker
