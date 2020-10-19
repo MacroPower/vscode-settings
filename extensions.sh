@@ -20,6 +20,7 @@ code --install-extension hangxingliu.vscode-nginx-conf-hint
 code --install-extension hashicorp.terraform
 code --install-extension imperez.smarty
 code --install-extension jmrog.vscode-nuget-package-manager
+code --install-extension joaompinto.vscode-graphviz
 code --install-extension jongrant.csharpsortusings
 code --install-extension k--kato.docomment
 code --install-extension lextudio.restructuredtext
